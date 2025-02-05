@@ -1,30 +1,25 @@
-<<<<<<< HEAD
-# Ishavasyopanishad
+# Ishavasyopanishad Frontend 
 
 ## Overview
 
 Ishavasyopanishad is part of the upanishad apps developed by Samskriti Foundation, Mysore.
 
-### Links to Related Repositories:
-  
-- Upanishads backend: [https://github.com/Samskriti-Foundation/upanishads-backend](https://github.com/Samskriti-Foundation/upanishads-backend)
-
 ## Installation
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/Samskriti-Foundation/ishavasyopanishad.git
-   ```
-   
+```bash
+git clone https://github.com/Dillibabu2357/Ishavasyoppanishad-Frontend.git
+```
+
 2. **Navigate to the project directory:**
-  
-    ```bash
-    cd ishavasyopanishad
-    ```
+
+```bash
+cd Ishavasyoppanishad-Frontend 
+```
 
 3. **Install Dependencies:**
-   
+
     a. Install yarn if not already installed
 
     ```bash
@@ -36,10 +31,8 @@ Ishavasyopanishad is part of the upanishad apps developed by Samskriti Foundatio
    ```bash
    yarn
    ```
-
 3. **Start server:**
 
    ```bash
    yarn dev
    ```
-=======
