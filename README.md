@@ -43,5 +43,3 @@ Ishavasyopanishad is part of the upanishad apps developed by Samskriti Foundatio
    yarn dev
    ```
 =======
-# Ishavasyopanishad-frontend
->>>>>>> aa3c37e38af752fa27d004e77c701ff56fec29bd
